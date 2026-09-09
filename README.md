@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**sg1817/sg1817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I am Sérgio
 
-Here are some ideas to get you started:
+## About me
+🎓 Computer Science student 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ Learning by building
+
+🎮 Interactive projects
+
+🌐 Web development
+
+🐍 Python | C | JavaScript | HTML | CSS
+
+I like taking random ideas and turning them into something that actually works.
+
+
+# Skills
+
+## 🖥️ Programming
+- C (basic)
+- Python (basic)
+- JavaScript (basic)
+
+## 🌐 Web Development
+- HTML5 (basic)
+- CSS3 (basic)
+- JavaScript (basic)
+- Responsive Web Desing
+
+## 🔧 Tools & Technologies
+- Git
+- GitHub
+- Visual Studio Code
+- Figma (basic)
+
+## 📚 Currently Learning
+- Databases
+- C
+- Web Development 
+- HTML
+- CSS
+- JavaScript
+- Python
+- English
+
